@@ -19,7 +19,9 @@ Building data-driven solutions with Machine Learning, Deep Learning, and Analyti
 - 📊 Exploring Data Science, Feature Engineering & Model Deployment
 - 💡 Passionate about AI, Computer Vision & Data-Driven Systems
 
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7a8aa6cb-799b-49fe-b1c2-508c25286f79" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+</p>
 
 ---
 
