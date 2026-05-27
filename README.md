@@ -31,13 +31,8 @@ Building data-driven solutions with Machine Learning, Deep Learning, and Analyti
 <img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,js,react,pytorch,opencv,git,github,mysql,gcp,docker" />
 </p>
 
----
-
-<p align="left">
-<img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Science-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-orange?style=for-the-badge"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/subhrajit08/subhrajit08/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
