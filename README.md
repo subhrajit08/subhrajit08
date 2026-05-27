@@ -8,7 +8,7 @@ Building data-driven solutions with Machine Learning, Deep Learning, and Analyti
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;Deep+Learning+Learner;Computer+Vision+Projects;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;Deep+Learning+&+Computer+Vision;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -23,7 +23,7 @@ Building data-driven solutions with Machine Learning, Deep Learning, and Analyti
 
 ### 🛠️ Tech Stack
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,git,github,mysql,tensorflow,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,pytorch,opencv,git,github,mysql,gcp" />
 </p>
 
 ---
