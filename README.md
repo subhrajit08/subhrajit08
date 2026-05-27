@@ -33,6 +33,15 @@ Building data-driven solutions with Machine Learning, Deep Learning, and Analyti
 
 ---
 
+<p align="left">
+<img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-orange?style=for-the-badge"/>
+</p>
+
+---
+
 ### 📫 Connect With Me
 <p align="left">
 <a href="https://github.com/subhrajit08">
