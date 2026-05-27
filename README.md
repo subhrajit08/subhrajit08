@@ -28,7 +28,7 @@ Building data-driven solutions with Machine Learning, Deep Learning, and Analyti
 
 ### 🛠️ Tech Stack
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,pytorch,opencv,git,github,mysql,gcp" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,pytorch,opencv,git,github,mysql,gcp,powerbi,matlab" />
 </p>
 
 ---
